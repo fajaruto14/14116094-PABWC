@@ -1,0 +1,17 @@
+Nama : Fajar Muhammad
+NIM  : 14116094
+PABW-C
+
+1. Lakukanlah perubahan pada kode HTML sesuai keinginan anda, Pernakah terjadi error ketika ada kesalahan kode?
+Jawab : Pernah dan tentu ada kesalahan kode karena tidak sesuai dengan hasil yang diinginkan.
+
+2. Cobalah ubah nilai meta refresh <meta HTTP-EQUIV="REFRESH" content="5; url=http://google.co.id"> apa yang terjadi?, maka jelaskan apa diantara kegunaan meta dokumen?
+Jawab : Setelah meta diubah, maka setelah muncul halaman html yang dibuat, setelah 5 detik kemudian akan mengunjungi halaman google.co.id. 
+	Kegunaan meta dokumen untuk memberikan informasi tambahan tentang kondisi atau isi dari halaman website atau blog pada robot di search engine.
+
+3. Jelaskan fungsi tag HTML pada Table: thead, tbody, tr, th serta td!
+Jawab : - thead digunakan untuk mengelompokkan isi atau konten yang berada di bagian atas (kepala) pada sebuah tabel.
+	- tbody digunakan untuk mengelompokkan konten atau isi yang terletak pada bagian tengah (tubuh) sebuah tabel.
+	- tr kepanjangan dari table row, digunakan untuk mendefiniskan baris pada tabel.
+	- th kepanjangan dari table heading, digunakan untuk membuat judul sebuah tabel.
+	- td kepanjangan dari table data, digunakan untuk membuat isi dari th atau baris.
